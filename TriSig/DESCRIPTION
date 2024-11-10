@@ -1,0 +1,12 @@
+Package: Anapol
+Title: Analyse des poles et zeros d'une fonction de transfert d'un circuit RLC
+Version: 0.0.0.9000
+Authors@R: 
+    person("WAMBE BITOMO", "Julien Aron", , "julienwambebitomo@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: fonctions qui aides a analyser les comportements dynamiques d'un 
+            circuit RLC en utilisant le theoreme des résidus.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
